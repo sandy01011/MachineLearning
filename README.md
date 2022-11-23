@@ -1,2 +1,2 @@
 # MachineLearning
-# Machine Learning alogrithims a comparative way to understand
+A collection of Machine Learning alogrithims a comparative way to understand.
